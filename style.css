@@ -1,0 +1,101 @@
+body {
+  background: gray;
+
+}
+
+header {
+  text-align: center;
+  background: black;
+  margin: 15px;
+  padding: 15px;
+}
+
+article{
+  margin-top: 50px;
+  text-align: center;
+  
+}
+
+section {
+  margin: 75px;
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 80px;
+  width: 50%;
+  width: 250px;
+  height: auto;
+}
+
+a:link { color:blue;}
+a:visited { color: darkblue;}
+a:hover { color: white;}
+a:active { color: green;}
+
+footer {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+/*Text styles*/
+h1 {
+  font-family: marker felt;
+  font-size: 42px;
+  color: white;
+}
+
+h2 {
+  font-family: marker felt;
+  font-size: 28px; 
+  color: white; 
+}
+
+h3 {
+  font-family: marker felt;  
+  font-size: 24px;
+  text-align: left:
+}
+
+h4 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color: black;
+}
+
+p {
+  font-family: times 'Times New Roman', Times, serif;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  text-align: left;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+ol {
+  text-align: left;
+  list-style-position: inside;
+  list-style-type: disc;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
+li {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
