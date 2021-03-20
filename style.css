@@ -9,18 +9,14 @@ header {
   margin: 15px;
   padding: 15px;
 }
+/*centers main text */
 
-article{
-  margin-top: 50px;
-  text-align: center;
-  
-}
 
 section {
   margin: 75px;
   text-align: center;
 }
-
+/*profile image: rounded */
 img {
   border-radius: 50%;
   display: block;
@@ -44,31 +40,31 @@ footer {
   text-align: center;
 }
 
-/*Text styles*/
+/*Michael Hudson*/
 h1 {
   font-family: marker felt;
   font-size: 42px;
   color: white;
 }
-
+/*Intro */
 h2 {
   font-family: marker felt;
   font-size: 28px; 
   color: white; 
 }
-
+/*About Me + Contact style*/
 h3 {
   font-family: marker felt;  
   font-size: 24px;
   text-align: left:
 }
-
+/*Footer style*/
 h4 {
   font-family: 'Times New Roman', Times, serif;
   font-size: 18px;
   color: black;
 }
-
+/*all paragraph text style*/
 p {
   font-family: times 'Times New Roman', Times, serif;
   font-size: 18px;
@@ -76,12 +72,12 @@ p {
   padding-bottom: 25px;
   text-align: left;
 }
-
+/*favorite teams list */
 ul {
-  text-align: center;
+  text-align: left;
   list-style-position: inside;
 }
-
+/*contact list */
 ol {
   text-align: left;
   list-style-position: inside;
@@ -89,13 +85,13 @@ ol {
   font-family: 'Times New Roman', Times, serif;
   font-size: 18px;
 }
-
+/*list elements */
 li {
   font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
-  text-align: center;
+  
 }
-
+/*centers header h2 */
 div {
   text-align: center;
 }
